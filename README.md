@@ -13,7 +13,8 @@ Welcome to this repository about **Cross-Validation** 📂, an essential techniq
 3. [Types of Validation](#types-of-validation)
 4. [Practical Exercise](#practical-exercise)
 5. [Advantages and Disadvantages](#advantages-and-disadvantages)
-6. [Contributors](#contributors)
+6. [Presentation](#presentation)
+7. [Contributors](#contributors)
 
 ---
 
@@ -74,8 +75,14 @@ When we train a model, we want it to perform well not just on training data but 
 - May need adaptation for specific data types (time series, classification, etc.).
 
 ---
+## 🎬 Presentation   
+You can access the **presentation** on **Cross Validation** at the following Canva link:  
 
-👥 Contributors
+
+[Cross Validation](https://www.canva.com/design/DAGo6X1uXXo/jxVMTmVVNLdEW_WXcfaVIg/view?utm_content=DAGo6X1uXXo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h746043da91/)
+
+---
+## 👥 Contributors
 - This repository was created by:
 
 - [Fernando García](https://github.com/fergarcat/) 
