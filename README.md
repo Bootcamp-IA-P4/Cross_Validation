@@ -72,7 +72,7 @@ When we train a model, we want it to perform well not just on training data but 
 ---
 
 👥 Contributors
-This repository was created by:
+- This repository was created by:
 
 - [Fernando García](https://github.com/fergarcat/) 
 - [Nhoeli Salazar](https://github.com/Nho89/)   
