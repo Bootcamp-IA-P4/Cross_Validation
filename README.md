@@ -1,7 +1,11 @@
 # 📊 Cross-Validation in Machine Learning
 
 Welcome to this repository about **Cross-Validation** 📂, an essential technique in Machine Learning for evaluating a model's generalization performance. You'll find theory and a hands-on Python exercise.
+<div align="center">
+  <img src="https://res.cloudinary.com/artevivo/image/upload/v1748854565/Captura_de_pantalla_2025-06-02_105532_cinwcs.png" alt="Banner " width="400" height="200">
+</div>
 
+---
 ## 🧭 Table of Contents
 
 1. [What is Cross-Validation?](#what-is-cross-validation)
