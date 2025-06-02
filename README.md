@@ -50,7 +50,7 @@ When we train a model, we want it to perform well not just on training data but 
 ## 🧪 Practical Exercise
 
 - This repository includes a hands-on **Cross-Validation** exercise using the **Iris** dataset from Scikit-learn. 
-- ✅ Don’t forget to run the notebook and explore results across different models!
+- ✅ Don’t forget to run the file and explore results across different models!
 
 ---
 
