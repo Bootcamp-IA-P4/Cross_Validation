@@ -21,7 +21,7 @@ Welcome to this repository about **Cross-Validation** 📂, an essential techniq
 
 ---
 
-## 📚 Generalization and Expected Risklizar**.
+## 📚 Generalization and Expected Risk.
 
 When we train a model, we want it to perform well not just on training data but also on new, unseen data — this is called **generalization**.
 
